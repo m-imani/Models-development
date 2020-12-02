@@ -1,0 +1,1 @@
+In this Notebook, I will develop several models like Linear Regression, Multiple Linear Regression, and Polynomial Regression that will predict the price of the car using the variables or features. Then I will evaluate these models (in-sample, and cross-validation) using R-squared and Mean-Squared-Error metrics to find out which model is a better fit for this dataset.
